@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
+:root {
+  --font-base: "Lexend", sans-serif;
+  --font-second-base: "Nunito", sans-serif;
+  --primary-color: #ffff;
+  --secondary-color: #e50914;
+  --bg-color: #111;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #111;
+}
